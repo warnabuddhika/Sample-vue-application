@@ -1,4 +1,4 @@
-# onboarding-assignment
+# Sample vue application 
 
 ## Build Setup
 
